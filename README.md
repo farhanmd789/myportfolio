@@ -1,1 +1,1 @@
-myportfolio
+A portfolio website designed with boltai showcasing my skills, projects, certifications, and internship training experience to demonstrate my suitability for a software engineer role as a final year graduate.
